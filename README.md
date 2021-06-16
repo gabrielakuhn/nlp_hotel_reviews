@@ -3,7 +3,9 @@
 Gabriela Kuhn
 
 Programa de Pós Graduação em Computação aplicada – Universidade do Vale do Rio dos Sinos
+
 2021/1 - Inteligência Artificial e Sistemas Inteligentes
+
 gbr.kuhn@gmail.com
 
 **Abstract**. The objective of this paper is to present the results of the study of Natural Language Processing (NLP) through the research and understanding
